@@ -1,0 +1,62 @@
+1) What is actual use of friend function and classes in c++?
+2) auto keyword in c++
+3) What is code bloating in c++?
+4) const_cast in c
+5) decltype in c++
+6) Difference between Reference and Pointer in C++
+7) Difference between range for loop and for reach in c
+8) What is dynamic Cast in c++?
+9) What is Explicit Constructor in c++?
+10) What is the use of extern in c++?
+11) What is function chaining in c++?
+12) What is function Hiding in C++?
+13) What do you Understand by Function Pointers in c++?
+14) What is Function in C++?
+15) Do you know how to debug using GDB in c++?
+16) How compilation works internally in c and c++?
+17) How delete[] know how much to deallocate in c++?
+18) How static variable behave in template class and Template Functions?
+19) How this pointer reaches to member functions in c++
+20) How to assign object to int?
+21) How to call some function before main in c++?
+22) How to check Two Objects Belongs to same class in c++?
+23) How to overload pre and post increment operator in c++?
+24) How to print BINGO N time without using loop & recursion in c++?
+25) How to set clear toggle check change one bit of int variable in C & C++ ?
+26) How to stop someone from copying your objects ?
+27) How to stop someone to inherit from your class in C++?
+28) How to write your own ATOI function in C & C++?
+29) How vector works internally in C++STL in C++?
+30) Is it Possible to call constructor and destructor explicitly?
+31) Must Watch for knowledge for c & c++ programmer
+32) What is Name Mangling in C++?
+33) What is Object Slicing in C++?
+34) Optimized Way to count set bit in int variable in C & C++?
+35) What is the use of override keyword in C++?
+36) Where to use placement new in C++?
+37) reinterpret_cast in c++ and where to use it ?
+38) static_cast in C++?
+39) Structural Padding & Packing in C/C++?
+40) Structural Padding in C/C++ part2 >
+41) The Difference between plain Enum and Enum Class in C++?
+42) Two ways to return multiple values from function in c++
+43) Virtual Destructor in C++?
+44) What are all those places where initializer list is must in c++?
+45) What are drawback of using vectors in C++?
+46) What is constructor delegation in c++?
+47) What is return value of printf and scanf in c++?
+48) What is RVO and NRVO copy elision in C++?
+49) What is the best place to use enum in C++?
+50) What is difference between struct and class in C++?
+51) What is the order of function parameter evaluation in C++?
+52) When to use reference over pointer and vice versa in c++?
+53) Which is fast pre or post increment ?
+54) Why copy constructor take argument as reference ?
+55) Why must define static data member of class in cpp file?
+56) why prefer pass by reference or pointer over pass by value ?
+57) Why returning reference is bad some time in c++?
+58) Why size of empty class OR struct is one in c++?
+59) Why template functions only definded inside header files ?
+60) Why using namespace std is bad to use ?
+61) why vector was introduced in c++?
+62) why we must return reference in copy assignment operator?
